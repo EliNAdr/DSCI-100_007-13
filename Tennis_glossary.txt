@@ -1,16 +1,17 @@
-ace: An ace is a legal serve in which the returner can't hit with their raquet. When it happens it results in the server winning a point.
-df: (Double fault) This means that the server 'messes up' twice in a row, meaning they lose a point. (this part of the data set likely referes to the total number of aces)
+ace: An ace is a legal serve in which the returner can't hit with their raquet. When it happens it results in the server winning a point. (this part of the data set likely refers to the total number of aces)
+
+df: (Double fault) This means that the server 'messes up' twice in a row, meaning they lose a point. 
 
 svpt: (Serve Points) This is the total number of points a player played on his serve.  In other databases this refers to serving percentage but this is uncommon. 
 
-1stIn: Background info: in tennis a deuce means that the score is even. Then one player has to score two more points to win. If ther server scores a point after the deuce (putting them one away from a point) this is called an 'in' or an 'advantage in' and if the other (non server) scores the point it is called an 'out' or an 'advantage out'. This part of the data is refering to which player was the first to successfully serve into bounds on their first serve.
+1stIn: Background info: in tennis a deuce means that the score is even. Then one player has to score two more points to win. If the server scores a point after the deuce (putting them one away from a point) this is called an 'in' or an 'advantage in' and if the other (non server) scores the point it is called an 'out' or an 'advantage out'. This part of the data is referring to which player was the first to successfully serve into bounds on their first serve.
 
 1stWon: Number of points a player wins on their first serve.
 
 2ndWon: Number of points a player wins on their second serve.
 
-SvGms: (Serve Games) Games in which a particular serves without the other winning any points. (Tennis is played with multiple glames, and whover wins the most (usually six but the number is set in advance) wins.)
+SvGms: (Serve Games) Games in which a particular serves without the other winning any points. (Tennis is played with multiple glames, and whover wins the most [usually six but the number is set in advance] wins.)
 
-bpSaved: (Break Point Saved) A break point is a situation where the reciving player can win the game by scoring the next point. Usually pivotal in the result of a game. Saved referes to a player saving their opponants break point.
+bpSaved: (Break Point Saved) A break point is a situation where the reciving player can win the game by scoring the next point. Usually pivotal in the result of a game. Saved refers to a player saving their opponants break point.
 
-bpFaced: (Break Point Faced) "Facing" a break point in not overly common in tennis, but I'm assuming facing a break point means loosing it, i.e. the oposite of saving one. 
+bpFaced: (Break Point Faced) "Facing" a break point in not overly common in tennis, but I'm assuming facing a break point means losing it, i.e. the opposite of saving one.
