@@ -12,6 +12,6 @@ svpt: (Serve Points) This is the total number of points a player played on his s
 
 SvGms: (Serve Games) Games in which a particular serves without the other winning any points. (Tennis is played with multiple glames, and whoever wins the most [usually six but the number is set in advance] wins.)
 
-bpSaved: (Break Point Saved) A break point is a situation where the reciving player can win the game by scoring the next point. Usually pivotal in the result of a game. Saved refers to a player saving their opponants break point.
+bpSaved: (Break Point Saved) A break point is a situation where the reciving player can win the game by scoring the next point. Usually pivotal in the result of a game. Saved refers to a player saving their opponant's break point.
 
 bpFaced: (Break Point Faced) "Facing" a break point in not overly common in tennis, but I'm assuming facing a break point means losing it, i.e. the opposite of saving one.
